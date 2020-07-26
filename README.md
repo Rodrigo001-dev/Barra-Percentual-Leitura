@@ -5,3 +5,7 @@ Nessa aplicação foi possível utilizando somente o JavaScript uima barra de pe
 # Bar-Percentage-Read
 Bar indicating how much you've read from the page
 In this application it was possible using only JavaScript a reading percentage bar, which while you slide to the end of the page the bar shows the percentage of the total page.
+
+## Demonstração/Demonstration
+
+![Gif Barra](https://github.com/Rodrigo001-de/Barra-Percentual-Leitura/blob/master/Barra-Percentual-Leitura.gif)
